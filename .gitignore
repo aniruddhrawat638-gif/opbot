@@ -1,0 +1,6 @@
+node_modules/
+.env
+npm-debug.log*
+src/data/rewards.json
+src/data/withdrawals.json
+src/data/config.json

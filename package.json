@@ -1,0 +1,14 @@
+{
+  "name": "lovemate-activity-rewards",
+  "version": "3.0.0",
+  "description": "Lovemate Discord activity credits with staff/admin controls.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": { "start": "node src/index.js" },
+  "engines": { "node": ">=22.12.0" },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0"
+  }
+}
